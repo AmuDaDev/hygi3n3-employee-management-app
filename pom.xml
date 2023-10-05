@@ -76,6 +76,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>hygi3n3-employee-management-app</finalName>
 	</build>
 
 </project>
